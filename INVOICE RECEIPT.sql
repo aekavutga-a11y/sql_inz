@@ -1,6 +1,6 @@
 USE [PLOB]
 GO
-/****** Object:  StoredProcedure [dbo].[pGetIntefaceAR_initial]    Script Date: 10/12/2568 18:05:54 ******/
+/***** Object:  StoredProcedure [dbo].[pGetIntefaceAR_initial]    Script Date: 10/12/2568 18:05:54 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
