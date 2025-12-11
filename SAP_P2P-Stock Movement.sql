@@ -1,6 +1,6 @@
 USE [PLOB]
 GO
-/****** Object:  StoredProcedure [dbo].[pGetIntefaceInventoryIssue_initial]    Script Date: 10/12/2568 18:02:26 ******/
+/***** Object:  StoredProcedure [dbo].[pGetIntefaceInventoryIssue_initial]    Script Date: 10/12/2568 18:02:26 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
