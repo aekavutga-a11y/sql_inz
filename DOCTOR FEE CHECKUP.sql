@@ -1,6 +1,6 @@
 USE [PLOB]
 GO
-/****** Object:  StoredProcedure [dbo].[P_PLOBInterfaceOIC_SetItem]    Script Date: 10/12/2568 18:08:33 ******/
+/***** Object:  StoredProcedure [dbo].[P_PLOBInterfaceOIC_SetItem]    Script Date: 10/12/2568 18:08:33 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
