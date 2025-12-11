@@ -1,6 +1,6 @@
 USE [PLOB]
 GO
-/******* Object:  StoredProcedure [dbo].[pGetIntefaceRevenueHeader_initial]    Script Date: 10/12/2568 14:40:34 ******/
+/***** Object:  StoredProcedure [dbo].[pGetIntefaceRevenueHeader_initial]    Script Date: 10/12/2568 14:40:34 ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
